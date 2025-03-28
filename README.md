@@ -1,3 +1,7 @@
+This is our copy of the Retreival System. We tried to run this code on CS machines. 
+
+
+
 # Probing LMs for Conversational Recommendation
 
 In our paper *"What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation"* we devise probing tasks to evaluate language models knowledge already stored in its parameters. We probe LMs (without any finetunning) for three types of knowledge: genre, search and recommendation.
